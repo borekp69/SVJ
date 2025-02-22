@@ -105,7 +105,7 @@ $link->close();
 <?php 
 echo "<br>";
 
-$datum_start = date('05.02.2024');  // počáteční datum od kdy se mají služby počítat
+$datum_start = date('17.02.2025');  // počáteční datum od kdy se mají služby počítat
 
   function radek($jmeno) {
   echo '<td bgcolor="#dfdddd">&nbsp;<b>'.$jmeno. "</b>&nbsp;&nbsp;</td>\n";
